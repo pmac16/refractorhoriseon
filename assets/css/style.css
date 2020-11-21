@@ -33,7 +33,9 @@ p {
 .header h1 .seo {
     color: #d9dcd6;
 }
+/* End Header Style */
 
+/* Start Nav Style */
 .nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,8 +52,8 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
-
 /* End Header Style */
+
 
 .hero {
     height: 800px;
@@ -107,8 +109,6 @@ p {
 }
 
 /* End benefit styles */
-
-/* Start services styles  */
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
