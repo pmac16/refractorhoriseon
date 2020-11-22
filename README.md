@@ -16,7 +16,7 @@ SO THAT my client, Horiseon's, website is optimized for search engines
 
 I added semantic HTML elements, ensured that they followed a logical structure, added accessible alt attributes, and a concise, descriptive title. In addition, some aspects of code were cleaned up. Below is a detailed description of what changes were made.
 
-You can view the deployed website here: 
+You can view the deployed website here: https://pmac16.github.io/refractorhoriseon/
 
 ## Table of Contents
 
