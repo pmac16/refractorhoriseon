@@ -35,7 +35,7 @@ Finally, the footer heading was changed so that it would be read last (h2 to h4)
 ```md
 ![Header] (assets/images/screenshot.header.png)
 ![Article/Aside] (assets/images/screenshot.footer.png)
-![Footer] (assets/images/screensht.header.png)
+![Footer] (assets/images/screenshot.header.png)
 ```
 
 ### Accessible Alt Attributes
@@ -50,4 +50,4 @@ The link to the Search Engine Optimization was broken. It was missing an ID, whi
 
 CSS selectors were combined if they had similar properties. Instead of each heading having it's own class, they were combined. For example, all the img classes were grouped together. 
 
-Overall, there were not a lot of comments to help with organization. Comments were added to show when sections start and end.
+Originally, there were not a lot of comments to help with organization. Comments were added to show when sections start and end.
